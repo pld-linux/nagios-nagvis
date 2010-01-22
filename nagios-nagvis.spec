@@ -1,12 +1,12 @@
 Summary:	Nagios Visualisation Addon
 Name:		nagios-nagvis
-Version:	1.2.2
+Version:	1.4.5
 Release:	0.1
 License:	GPL
 Group:		Applications/WWW
 URL:		http://www.nagvis.org/
 Source0:	http://dl.sourceforge.net/nagvis/nagvis-%{version}.tar.gz
-# Source0-md5:	ffe2764e5f76f8a68bbb1737ea8fd432
+# Source0-md5:	f4859977d68f015767037271b1858363
 Source1:	http://dl.sourceforge.net/nagvis/NagVis-Iconset-Standard-Mini-0.1.tar.gz
 # Source1-md5:	6678111581f3bb5400ab77d1f9eab8d0
 Source2:	http://dl.sourceforge.net/nagvis/NagVis-Shapes-Server-Nuvola.tar.gz
